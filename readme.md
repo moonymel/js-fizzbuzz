@@ -22,3 +22,4 @@ All'interno del ciclo:
         Stampo in console Buzz
     ? i%3 == 0 && i%5 == 0
         Stampo in console FizzBuzz
+    ; Stampo variabile i
